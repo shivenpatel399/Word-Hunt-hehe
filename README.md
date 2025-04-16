@@ -1,5 +1,5 @@
-# ShivPat's Hunter
-## Manual Word Solver (website)
+# How to piss off SciOly Word Hunt Sweats
+## Step by Step
 1. Click on this [Shiven's Hunter](https://shivenpatel399.github.io/Word-Hunt-hehe/)
 2. Start your Word Hunt game.
 2. Input your letters into the solver.
