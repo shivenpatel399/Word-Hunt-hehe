@@ -1,6 +1,6 @@
 # Word Hunt (Boggle) Solver
 ## Manual Word Solver (website)
-1. Go on the [Shiven's Code :))]([https://rw-a.github.io/word-hunt/](https://github.com/shivenpatel399/shivpat.github.io/deployments/github-pages)).
+1. Click on this [Shiven's Hunter](https://shivenpatel399.github.io/shivpat.github.io/).
 2. Start your Word Hunt game.
 2. Input your letters into the solver.
 3. Click on a generated word to show it's path on the board.
