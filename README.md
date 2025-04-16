@@ -1,4 +1,4 @@
-# How to piss off SciOly Word Hunt Sweats
+# How to use Brute-Forcer
 ## Step by Step
 1. Click on this [Shiven's Hunter](https://shivenpatel399.github.io/WordSniper/)
 2. Start your Word Hunt game.
