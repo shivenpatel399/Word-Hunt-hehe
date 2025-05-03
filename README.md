@@ -1,4 +1,4 @@
-# How to use Brute-Forcer
+# How to use Word Sniper
 ## Step by Step
 1. Click on this [Shiven's Hunter](https://shivenpatel399.github.io/WordSniper/)
 2. Start Word Hunt.
